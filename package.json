@@ -1,0 +1,17 @@
+{
+  "name": "react-scratch",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  },
+  "devDependencies": {
+    "@storybook/react": "^3.0.0"
+  },
+  "scripts": {
+    "storybook": "start-storybook -p 9001 -c .storybook"
+  },
+  "author": "Tuan Anh Pham (tuanh118@gmail.com)",
+  "license": "MIT"
+}
