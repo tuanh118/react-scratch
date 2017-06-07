@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "dependencies": {
+    "prop-types": "^15.5.10",
     "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react-dom": "^15.5.4",
+    "recompose": "^0.23.4"
   },
   "devDependencies": {
     "@storybook/react": "^3.0.0"
